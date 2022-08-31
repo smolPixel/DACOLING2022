@@ -1,0 +1,15 @@
+venv/
+venvCBERT/
+.idea/
+content/
+models/
+data/
+temp/
+dumps/
+textaugment/Embd/
+bin/
+venv10010/
+venv25/
+venvCBERT25/
+cbert_model/
+__pycache__/

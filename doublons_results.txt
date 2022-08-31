@@ -1,0 +1,45 @@
+Algo EDA split 100 percent of identical sentences 0.0
+Algo EDA split 500 percent of identical sentences 0.0
+Algo EDA split 1000 percent of identical sentences 0.04
+Algo EDA split 0 percent of identical sentences 0.017218604977380855
+---
+Algo W2V split 100 percent of identical sentences 0.4
+Algo W2V split 500 percent of identical sentences 0.2
+Algo W2V split 1000 percent of identical sentences 0.48
+Algo W2V split 0 percent of identical sentences 0.4351248724944444
+---
+Algo VAE split 100 percent of identical sentences 0.0
+Algo VAE split 500 percent of identical sentences 0.0
+Algo VAE split 1000 percent of identical sentences 0.0
+Algo VAE split 0 percent of identical sentences 0.0
+---
+Algo VAE_EncDec split 100 percent of identical sentences 3.8
+Algo VAE_EncDec split 500 percent of identical sentences 3.6
+Algo VAE_EncDec split 1000 percent of identical sentences 3.2600000000000002
+Algo VAE_EncDec split 0 percent of identical sentences 1.1954059076368229
+---
+Algo GAN split 100 percent of identical sentences 0.0
+Algo GAN split 500 percent of identical sentences 0.04
+Algo GAN split 1000 percent of identical sentences 0.02
+Algo GAN split 0 percent of identical sentences 0.014666666666666666
+---
+Algo CVAE split 100 percent of identical sentences 0.0
+Algo CVAE split 500 percent of identical sentences 0.0
+Algo CVAE split 1000 percent of identical sentences 0.0
+Algo CVAE split 0 percent of identical sentences 0.0
+---
+Algo CATGAN split 100 percent of identical sentences 17.2
+Algo CATGAN split 500 percent of identical sentences 4.24
+Algo CATGAN split 1000 percent of identical sentences 3.8600000000000003
+Algo CATGAN split 0 percent of identical sentences 0.4653333333333333
+---
+Algo CBERT split 100 percent of identical sentences 35.983333333333334
+Algo CBERT split 500 percent of identical sentences 27.240000000000002
+Algo CBERT split 1000 percent of identical sentences 36.37871485943775
+Algo CBERT split 0 percent of identical sentences 34.876093982667754
+---
+Algo GPT split 100 percent of identical sentences 0.4
+Algo GPT split 500 percent of identical sentences 0.0
+Algo GPT split 1000 percent of identical sentences 0.0
+Algo GPT split 0 percent of identical sentences 0.004
+---
